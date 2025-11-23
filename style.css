@@ -1,0 +1,46 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.jumbotron .col-md-6 .display-4 {
+  color: brown;
+}
+
+.nav span {
+  color: violet;
+}
+
+.font-weight-bold {
+  color: green;
+}
+
+.blog-post-1 {
+  color: chocolate;
+}
+
+.blog-post-1 hr {
+  border-top: 1px solid red;
+}
+
+nav span:nth-child(even) {
+  color: orange;
+}
+
+.p-4 .mb-0 li a {
+  color: grey;
+}
+
+.blog-post .blog-post-meta a {
+  color: yellowgreen;
+}
